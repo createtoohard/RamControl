@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RamControl</string>
+    <string name="fill_ram">Fill Ram</string>
+    <string name="free_ram">Free Ram</string>
+</resources>
